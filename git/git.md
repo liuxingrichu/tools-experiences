@@ -19,3 +19,6 @@ https://try.github.io/				#在线练习
 
 安装nodeJS
 npm install git-it -git
+
+-----------------------
+Shift + Insert						#粘贴
