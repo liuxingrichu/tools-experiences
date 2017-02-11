@@ -18,7 +18,7 @@ git pull [remote] [branch]			#将远程仓库的提交拉下到本地
 https://try.github.io/				#在线练习
 
 安装nodeJS
-npm install git-it -git
+npm install git-it -g
 
 -----------------------
 Shift + Insert						#粘贴
