@@ -16,6 +16,10 @@
 清除路由表
 	> route -F
 	> route -f
+	
+启动windows服务界面	
+	Windows运行框中输入「services.msc」
+	
 
 	
 	
