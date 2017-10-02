@@ -20,6 +20,9 @@
 启动windows服务界面	
 	Windows运行框中输入「services.msc」
 	
+过滤检索
+	> ipconfig | findstr 192.168.
+	
 
 	
 	
