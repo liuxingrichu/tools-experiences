@@ -27,6 +27,7 @@
 	Alt + F4
 	再选择关机
 	
-
+查询MAC地址
+	> ipconfig /all
 	
 	
