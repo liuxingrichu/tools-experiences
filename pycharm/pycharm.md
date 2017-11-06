@@ -55,3 +55,8 @@ File -> Settings -> Project:xxx -> Project structure
 	在文件名上 -> Split Vertically 
 取消分屏显示
 	在文件名上 -> Unsplit
+	
+【默认模板】	
+File-》Settings -》Editor-》File and Code  Templates -》Python Script
+
+
