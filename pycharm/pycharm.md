@@ -53,7 +53,29 @@ Ctrl + Alt + L
 		在文件名上 -> Split Vertically 
 	取消分屏显示
 		在文件名上 -> Unsplit
-	
+
+# 版本控制 #
+## 添加GitHub ##
+	File -> Settings -> Version Control -> GitHub ->填写以下内容
+		Host: github.com
+		Login: 用户名
+		Password: 密码
+	再点击“Test”，至提示成功
+
+## 添加git ##
+	安装git
+	File -> Settings -> Version Control -> git
+	点击“Test”，至提示成功
+
+## 添加仓库 ##
+### 新仓库
+	菜单 -》 VCS -》Import into Version Control -> Share Project on GihHub
+
+### 旧仓库	
+	git add .
+	关闭pycharm
+	打开pycharm
+	工程名-》右键-》Git
 
 
 
