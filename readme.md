@@ -6,5 +6,6 @@
 - [eclipse](https://github.com/liuxingrichu/tools-experiences/blob/master/eclipse.md)
 	- eclipse工具 自动提示 显示行号 调整字体 Java注释 XML注释 快捷键 支持python
 - [Windows 硬盘问题](https://github.com/liuxingrichu/tools-experiences/blob/master/window7_disk.md)
+- [Windows 软件卸载](https://github.com/liuxingrichu/tools-experiences/blob/master/msicuu2.md)
 
 
