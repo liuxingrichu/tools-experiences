@@ -27,3 +27,15 @@ npm install git-it -g
 
 # 快捷键 #
 Shift + Insert		#粘贴
+
+### 暂存代码 ###
+git stash 
+
+git stash save 'xx'
+
+### 异常场景 ###
+1. 执行git push https://github.com/xxx.git master命令时，提示
+fatal: AggregateException encountered.
+	- 解决方法：
+		- 方法一. 每次都输入用户名和密码
+		- 方法二： git config --global credential.helper wincred
