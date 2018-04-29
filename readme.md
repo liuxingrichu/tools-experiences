@@ -10,4 +10,5 @@
 - [端口映射、登陆映射](https://github.com/liuxingrichu/tools-experiences/blob/master/IPOP.md)
 - [bat脚本基本知识](https://github.com/liuxingrichu/tools-experiences/blob/master/bat.md)
 - [xshell快速命令、显示中文、生成密钥](https://github.com/liuxingrichu/tools-experiences/blob/master/Xshell.md)
+- [dos操作](https://github.com/liuxingrichu/tools-experiences/blob/master/dos.md)
 
