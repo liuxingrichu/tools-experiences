@@ -1,0 +1,40 @@
+### window7 安装清单
+- 基本套餐
+	- word 2003
+	- excel 2003
+	- PPT 2003
+	- QQ
+	- 金山词霸
+	- 金山毒霸
+	- chrome
+	- Foxmail
+	- notepad
+	- iTunes
+	- 打印机配置
+	- nsatool.exe
+	- 暴风影音
+	- 酷狗
+	- 搜狗输入法
+	- 讯飞输入法
+	- 迅雷
+	- pdfFactory Pro
+	
+- 工作套餐
+	- git
+	- pycharm
+	- python3（Anaconda）
+	- xmind
+	- xshell
+	- markdownpad
+	- sublime
+	- VMware Workstation
+	- SQliteSpy
+	- Beyond Compare 3
+	- FSCapture
+	- evernote
+	- WinSCP
+	- Firefox
+	- Node.js
+	- Erlang OTP
+	- RabbitMQ Server
+
