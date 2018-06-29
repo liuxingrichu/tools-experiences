@@ -23,6 +23,7 @@
 	- git
 	- pycharm
 	- python3£¨Anaconda£©
+		- [python¹ÙÍø](https://www.python.org/)
 	- xmind
 	- xshell
 	- markdownpad
