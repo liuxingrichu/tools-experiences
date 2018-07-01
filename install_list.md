@@ -1,33 +1,35 @@
-### window7 °²×°Çåµ¥
-- »ù±¾Ì×²Í
+### window7 å®‰è£…æ¸…å•
+- åŸºæœ¬å¥—é¤
 	- word 2003
 	- excel 2003
 	- PPT 2003
 	- QQ
-	- ½ğÉ½´Ê°Ô
-	- ½ğÉ½¶¾°Ô
+	- é‡‘å±±è¯éœ¸
+	- é‡‘å±±æ¯’éœ¸
 	- chrome
 	- Foxmail
 	- notepad
 	- iTunes
-	- ´òÓ¡»úÅäÖÃ
+	- æ‰“å°æœºé…ç½®
 	- nsatool.exe
-	- ±©·çÓ°Òô
-	- ¿á¹·
-	- ËÑ¹·ÊäÈë·¨
-	- Ñ¶·ÉÊäÈë·¨
-	- Ñ¸À×
+	- æš´é£å½±éŸ³
+	- é…·ç‹—
+	- æœç‹—è¾“å…¥æ³•
+	- è®¯é£è¾“å…¥æ³•
+	- è¿…é›·
 	- pdfFactory Pro
 	
-- ¹¤×÷Ì×²Í
+- å·¥ä½œå¥—é¤
 	- git
 	- pycharm
-	- python3£¨Anaconda£©
-		- [python¹ÙÍø](https://www.python.org/)
+	- python3ï¼ˆAnacondaï¼‰
+		- [pythonå®˜ç½‘](https://www.python.org/)
 	- xmind
 	- xshell
 	- markdownpad
+		- [MarkdownPad](http://markdownpad.com/)
 	- sublime
+		- []()
 	- VMware Workstation
 	- SQliteSpy
 	- Beyond Compare 3
