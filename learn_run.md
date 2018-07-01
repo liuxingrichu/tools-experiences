@@ -3,33 +3,27 @@
 
 [dashboard](http://dashboard.daocloud.io/build-flows)
 
-[ĞéÄâ»¯ºÍDoker¼¼Êõ](http://www.cnblogs.com/51kata/category/789766.html)
+[è™šæ‹ŸåŒ–å’ŒDokeræŠ€æœ¯](http://www.cnblogs.com/51kata/category/789766.html)
 
 [dockone](http://dockone.io/article/1059)
 
 [network](http://www.aixchina.net/Question/123839?p=1)
 
-[ÈçºÎÔÚ Docker ÈİÆ÷Ö®¼äÉèÖÃÍøÂç](https://linux.cn/article-5556-1.html)
+[å¦‚ä½•åœ¨ Docker å®¹å™¨ä¹‹é—´è®¾ç½®ç½‘ç»œ](https://linux.cn/article-5556-1.html)
 
 #### 51CTO
 
 http://www.cnblogs.com/lianzhilei/archive/2016/10/30/6013847.html
 
-http://edu.51cto.com/center/course/lesson/index?id=136690
+[pythoné«˜çº§è‡ªåŠ¨åŒ–å¼€å‘å·¥ç¨‹å¸ˆ]http://edu.51cto.com/center/wejob/user/course?train_id=94)
 
-http://edu.51cto.com/center/course/lesson/index?id=136657
-
-[Ïß³Ì¡¢½ø³Ì](http://edu.51cto.com/center/course/lesson/index?id=136622)
-
-[python¸ß¼¶×Ô¶¯»¯¿ª·¢¹¤³ÌÊ¦](http://edu.51cto.com/center/wejob/user/index?train_id=94)
-
-[´ò¿¨](http://edu.51cto.com/center/course/user/sign-card)
+[æ‰“å¡](http://edu.51cto.com/center/course/user/sign-card)
 
 ### mysql
 
-[CentOS6.4ÏÂMysqlÊı¾İ¿âµÄ°²×°ÓëÅäÖÃ](http://www.cnblogs.com/xiaoluo501395377/archive/2013/04/07/3003278.html)
+[CentOS6.4ä¸‹Mysqlæ•°æ®åº“çš„å®‰è£…ä¸é…ç½®](http://www.cnblogs.com/xiaoluo501395377/archive/2013/04/07/3003278.html)
 
-[Êı¾İ¿â½éÉÜ](http://edu.51cto.com/center/course/lesson/index?id=136674)
+[æ•°æ®åº“ä»‹ç»](http://edu.51cto.com/center/course/lesson/index?id=136674)
 
 [python mysql and ORM](https://www.cnblogs.com/alex3714/articles/5950372.html)
 
@@ -46,56 +40,56 @@ http://edu.51cto.com/center/course/lesson/index?id=136657
 
 [Installing on Windows](http://www.rabbitmq.com/install-windows.html)
 
-[ÔÚwindowsÏÂ°²×°ÅäÖÃ](http://www.myexception.org/windows/1596759.html)
+[åœ¨windowsä¸‹å®‰è£…é…ç½®](http://www.myexception.org/windows/1596759.html)
 
 ### GitHub
 https://github.com/liuxingrichu
 
 https://github.com/hwzz3311?tab=repositories
 
-### UÉî¶È
-[UÉî¶È](http://winpe.ushendu.cn/)
+### Uæ·±åº¦
+[Uæ·±åº¦](http://winpe.ushendu.cn/)
 
 ### windows
-[windowsÃüÁîĞĞ·½Ê½ÏÂ´òÓ¡ºÍÉèÖÃPATH±äÁ¿](https://blog.csdn.net/snlei/article/details/7211770)
+[windowså‘½ä»¤è¡Œæ–¹å¼ä¸‹æ‰“å°å’Œè®¾ç½®PATHå˜é‡](https://blog.csdn.net/snlei/article/details/7211770)
 
 
 ### python
-[5 ¸öºÜºÃµÄ Python ÃæÊÔÌâ](http://python.jobbole.com/86525/)
+[5 ä¸ªå¾ˆå¥½çš„ Python é¢è¯•é¢˜](http://python.jobbole.com/86525/)
 
-[¾ºÈü](https://www.zhihu.com/question/23845192)
+[ç«èµ›](https://www.zhihu.com/question/23845192)
 
-[²ËÄñ½Ì³Ì](http://www.runoob.com/python3/python3-list.html)
+[èœé¸Ÿæ•™ç¨‹](http://www.runoob.com/python3/python3-list.html)
 
-[PythonÖ®Â·¡¾Ä¿Â¼¡¿](http://www.cnblogs.com/wupeiqi/articles/4938499.html)
+[Pythonä¹‹è·¯ã€ç›®å½•ã€‘](http://www.cnblogs.com/wupeiqi/articles/4938499.html)
 
-[±¤Àİ»ú](http://www.cnblogs.com/wupeiqi/articles/5095821.html)
+[å ¡å’æœº](http://www.cnblogs.com/wupeiqi/articles/5095821.html)
 
-[ÀàFabricÖ÷»ú¹ÜÀí³ÌĞò¿ª·¢](http://www.cnblogs.com/chensiqiqi/p/6241810.html)
+[ç±»Fabricä¸»æœºç®¡ç†ç¨‹åºå¼€å‘](http://www.cnblogs.com/chensiqiqi/p/6241810.html)
 
-[½ø³Ì¡¢Ïß³Ì¡¢Ğ­³ÌÆª](https://www.cnblogs.com/alex3714/articles/5230609.html)
+[è¿›ç¨‹ã€çº¿ç¨‹ã€åç¨‹ç¯‡](https://www.cnblogs.com/alex3714/articles/5230609.html)
 
-[Òì²½IO\Êı¾İ¿â\¶ÓÁĞ\»º´æ](https://www.cnblogs.com/alex3714/articles/5248247.html)
+[å¼‚æ­¥IO\æ•°æ®åº“\é˜Ÿåˆ—\ç¼“å­˜](https://www.cnblogs.com/alex3714/articles/5248247.html)
 
 [codingbat](http://codingbat.com/python)
 
-[²©¿ÍÔ°](https://home.cnblogs.com/)
+[åšå®¢å›­](https://home.cnblogs.com/)
 
-[Python×Ô¶¯»¯2.0¿Î³Ì¿Î¼şÄ¿Â¼](http://www.cnblogs.com/alex3714/articles/5885096.html)
+[Pythonè‡ªåŠ¨åŒ–2.0è¯¾ç¨‹è¯¾ä»¶ç›®å½•](http://www.cnblogs.com/alex3714/articles/5885096.html)
 
-[11¸öÔÚÏß±àÂë´óÈü](https://www.csdn.net/article/2013-09-03/2816800-Online-Coding-Contests-For-Programmers)
+[11ä¸ªåœ¨çº¿ç¼–ç å¤§èµ›](https://www.csdn.net/article/2013-09-03/2816800-Online-Coding-Contests-For-Programmers)
 
-[DjangoÖ®Model²Ù×÷](http://www.cnblogs.com/wupeiqi/articles/6216618.html)
+[Djangoä¹‹Modelæ“ä½œ](http://www.cnblogs.com/wupeiqi/articles/6216618.html)
 
-[³É³¤Ö®Â·](http://baijiahao.baidu.com/s?id=1578594478424685451&wfr=spider&for=pc)
+[æˆé•¿ä¹‹è·¯](http://baijiahao.baidu.com/s?id=1578594478424685451&wfr=spider&for=pc)
 
-### ²âÊÔ
-[¾­µä²âÊÔÃæÊÔÌâ](https://www.cnblogs.com/zjd2626/p/6692350.html)
+### æµ‹è¯•
+[ç»å…¸æµ‹è¯•é¢è¯•é¢˜](https://www.cnblogs.com/zjd2626/p/6692350.html)
 
-### Î÷ºş
-[Î÷ºş](https://v.youku.com/v_show/id_XNDI4OTUwOTg0.html?spm=a2h0j.8191423.item_XNDI4OTUwOTg0.A)
+### è¥¿æ¹–
+[è¥¿æ¹–](https://v.youku.com/v_show/id_XNDI4OTUwOTg0.html?spm=a2h0j.8191423.item_XNDI4OTUwOTg0.A)
 
-### ÆäËü
+### å…¶å®ƒ
 http://www.cnblogs.com/misoag/archive/2013/02/04/2891636.html
 
 http://baijiahao.baidu.com/s?id=1578594478424685451&wfr=spider&for=pc
@@ -104,22 +98,22 @@ https://jingyan.baidu.com/user/income
 
 https://www.douban.com/group/topic/71828747/
 
-[×öµ½](https://www.zuodao.com/guest/index.html)
+[åšåˆ°](https://www.zuodao.com/guest/index.html)
 
-[·±Ìå×Ö×ª»»Æ÷](http://www.fantizi5.com/)
+[ç¹ä½“å­—è½¬æ¢å™¨](http://www.fantizi5.com/)
 
-[³¬¼¶±£°²ÔÚ¶¼ÊĞ](http://www.mytxt.cc/read/3612/)
+[è¶…çº§ä¿å®‰åœ¨éƒ½å¸‚](http://www.mytxt.cc/read/3612/)
 
-[³¬¼¶±£°²ÔÚ¶¼ÊĞ](http://www.mytxt.cc/read/3612/14976551.html)
+[è¶…çº§ä¿å®‰åœ¨éƒ½å¸‚](http://www.mytxt.cc/read/3612/14976551.html)
 
-[×îÇ¿ÉñÒ½»ì¶¼ÊĞ](http://www.mytxt.cc/read/1291/472911.html)
+[æœ€å¼ºç¥åŒ»æ··éƒ½å¸‚](http://www.mytxt.cc/read/1291/472911.html)
 
-[ºÚ¿ÍÈëÃÅ½Ì³Ì](http://www.fzithome.com/article-71-31122-1.html)
+[é»‘å®¢å…¥é—¨æ•™ç¨‹](http://www.fzithome.com/article-71-31122-1.html)
 
-[ºÏ¸ñµÄÊı¾İÍÚ¾ò¹¤³ÌÊ¦](https://www.zhihu.com/question/38770400)
+[åˆæ ¼çš„æ•°æ®æŒ–æ˜å·¥ç¨‹å¸ˆ](https://www.zhihu.com/question/38770400)
 
-[»úÆ÷Ñ§Ï°£¬Êı¾İÍÚ¾òµÄÊé](https://www.zhihu.com/question/20955741)
+[æœºå™¨å­¦ä¹ ï¼Œæ•°æ®æŒ–æ˜çš„ä¹¦](https://www.zhihu.com/question/20955741)
 
-[¼òÊé](https://www.jianshu.com/users/97464afa3438/following)
+[ç®€ä¹¦](https://www.jianshu.com/users/97464afa3438/following)
 
-[½ğÈÚÊĞ³¡»ù´¡ÖªÊ¶](http://www.iqiyi.com/v_19rrlzlmg8.html#curid=523578500_5da08ee0eb6a7c9ac1fe4e185e674e38)
+[é‡‘èå¸‚åœºåŸºç¡€çŸ¥è¯†](http://www.iqiyi.com/v_19rrlzlmg8.html#curid=523578500_5da08ee0eb6a7c9ac1fe4e185e674e38)
