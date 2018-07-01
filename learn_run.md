@@ -15,7 +15,7 @@
 
 http://www.cnblogs.com/lianzhilei/archive/2016/10/30/6013847.html
 
-[python高级自动化开发工程师]http://edu.51cto.com/center/wejob/user/course?train_id=94)
+[python高级自动化开发工程师](http://edu.51cto.com/center/wejob/user/course?train_id=94)
 
 [打卡](http://edu.51cto.com/center/course/user/sign-card)
 
