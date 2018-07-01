@@ -39,3 +39,12 @@ fatal: AggregateException encountered.
 	- 解决方法：
 		- 方法一. 每次都输入用户名和密码
 		- 方法二： git config --global credential.helper wincred
+
+2. 解决本地仓库提交，身份认证
+	1. git config --global user.email "liuxingrichu@163.com"
+	2. git config --global user.name "liuxingrichu"
+
+
+3. 解决每次远程提交需要输入账号和密码
+	1. git config --global credential.helper store
+	
