@@ -1,3 +1,16 @@
+### 配置html环境 ###
+1. ctrl + shift + p
+2. 输入“install package”
+3. 输入“emmet”
+
+- 效果
+	1. 生成html5模板
+		1. 输入“!”+"tab"
+		2. 输入“html:5”+“tab”
+	2. 生成html4模板
+		1. 输入“html:4s”+“tab”
+	3. 输入<会有提示。
+
 ### emmet组件 ###
 [安装参见](https://www.cnblogs.com/90wang/p/6019150.html)
 
