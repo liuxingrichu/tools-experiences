@@ -4,3 +4,4 @@
 3. [Windows电脑之间文件传输方法](files_share.md)
 4. [Windows查询IP信息方法](files_share.md)
 5. [设置Windows文件共享](files_share.md)
+6. [文件效验](check_file.md)
