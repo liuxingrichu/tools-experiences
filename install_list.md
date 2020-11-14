@@ -18,6 +18,7 @@
 	- 讯飞输入法
 	- 迅雷
 	- pdfFactory Pro
+	- 百度网盘
 	
 - 工作套餐
 	- git
