@@ -21,7 +21,7 @@
 	Ctrl + Shift + F8		查看断点
 
 # 自动排版 #
-Ctrl + Alt + L			
+	Ctrl + Alt + L			
 
 # 查看更多快捷键 #
 	Help -> Default Key Reference		
@@ -30,21 +30,25 @@ Ctrl + Alt + L
 
 # 常用方法 #
 	显示行号
-	File -> Settings -> Editor -> Appearance 勾选 show line numbers
+	File -> Settings -> Editor -> General -> Appearance 勾选 show line numbers
 	颜色与字体
-	File -> Settings -> Editor -> Colors & Fonts
+	File -> Settings -> Editor -> Colors & Fonts -> Font(20, 1)
 	设置折叠
 	File -> Settings -> Editor -> General -> Coding Folding
 	设置PEP-8 每行字符限制
-	File -> Settings -> Editor -> Code Style 修改Right margin(columns)
+	File -> Settings -> Editor -> Code Style 修改Right margin(columns)(80)
 	字符限制: 右边竖线提示线
 	File -> Settings -> Editor -> General -> Appearance
 	py文件模板
 	File -> Settings -> Editor -> File and code Templates
+
+		#!/usr/bin/env python
+		# -*- coding:utf-8 -*-
+
 	文件默认编码
 	File -> Settings -> Editor -> File encodings
 	设置解释器
-	File -> Settings -> Project:xxx -> Project Interpreter
+	File -> Settings -> Project:xxx -> Project Interpreter -> utf-8
 	设置工程目录
 	File -> Settings -> Project:xxx -> Project structure
 		【注】可解决import报错, 不再显示红色
